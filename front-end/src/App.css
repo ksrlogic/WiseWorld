@@ -1,0 +1,19 @@
+.Header {
+  border-bottom: 2px solid grey;
+}
+
+.badge {
+  display: block;
+  text-align: left;
+  margin: 0 auto;
+  background-color: white;
+  color: black;
+}
+
+.wise {
+  position: relative;
+}
+
+.form-group {
+  margin: 20px 10px;
+}
